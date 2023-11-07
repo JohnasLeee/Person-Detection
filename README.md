@@ -4,6 +4,6 @@ In the same folder as Person-Detection, create an additional folder called "pret
 There are much more models, feel free to explore.
 
 # Libraries and versions
-python 3.10
-opencv-python 4.8.0.76 
+python 3.10 \n
+opencv-python 4.8.0.76 \n 
 tensorflow-gpu 2.10
