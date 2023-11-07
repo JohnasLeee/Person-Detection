@@ -3,6 +3,8 @@
 In the same folder as Person-Detection, create an additional folder called "pretrained_models"
 There are much more models, feel free to explore.
 
+In the "run_me.py" there are empty paths to be assigned.
+
 # Libraries and versions
 python 3.10
 
