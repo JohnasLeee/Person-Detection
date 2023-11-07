@@ -9,9 +9,9 @@ modelURL = 'http://download.tensorflow.org/models/object_detection/tf2/20200711/
 
 
 detector = Detector()
-classFile = r"C:\Users\johna\Documents\CS USM\Tensorflow\Object Detection\coco.names"
-imagePath = r"C:\Users\johna\Documents\CS USM\Tensorflow\Object Detection\pics\6.jpg"
-videoPath = r"C:\Users\johna\Downloads\people on street.mp4"
+classFile = #PATH OF coco.name IN YOUR SYSTEM
+imagePath = #PATH OF IMAGE IN YOUR SYSTEM
+videoPath = #PATH OF VIDEO IN YOUR SYSTEM
 
 threshold = 0.5
 person = True
