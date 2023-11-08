@@ -13,9 +13,9 @@ classFile = #PATH OF coco.name IN YOUR SYSTEM
 imagePath = #PATH OF IMAGE IN YOUR SYSTEM
 videoPath = #PATH OF VIDEO IN YOUR SYSTEM
 
-threshold = 0.5
-'''DETECT PERSON ONLY'''
-person = True 
+threshold = 0.5 #SENSITIVITY
+
+person = True #DETECT PERSON ONLY 
 detector.readClasses(classFile)
 
 detector.downloadModel(modelURL)
